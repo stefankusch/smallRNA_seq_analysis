@@ -1,6 +1,6 @@
 ## Analysis of smallRNA-seq data obtained from *Blumeria graminis* f.sp. *hordei*-infected barley
 
-In this repository, I summarize the scripts and tools I used to perform the assembly of the genome of *Leveillula taurica*. The publication can be found **here**.
+In this repository, we summarize the scripts and pipelines used to perform the analysis of smallRNA-seq data obtained from *Blumeria graminis* f.sp. *hordei*-infected barley. The publication can be found **here**.
 
 #### Index
 
