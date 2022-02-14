@@ -5,7 +5,7 @@ In this repository, we summarize the scripts and pipelines used to perform the a
 #### Index
 
 01. Raw sequencing data processing.
-02. Read size distribution analysis.
+02. Read length distribution analysis.
 03. RFAM BLAST analysis of reads. 
 04. ShortStack analyis for milRNA discovery in *H. vulgare* and *B. graminis* f.sp. *hordei*
 05. Differential expression analysis of milRNAs in *H. vulgare* and *B. graminis* f.sp. *hordei*
