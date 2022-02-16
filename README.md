@@ -15,6 +15,8 @@ In this repository, we summarize the scripts and pipelines used to perform the a
 
 #### References *to be completed*
 
+- ShortStack [Publication](https://doi.org/10.1534/g3.116.030452)
+- Trimmomatic [Publication](https://doi.org/10.1093/bioinformatics/btu170) | [Manual](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
 - Samtools [Publication](https://academic.oup.com/bioinformatics/article/25/16/2078/204688) | [Manual](http://www.htslib.org/doc/)
 - BEDtools [Publication](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btq033) | [Manual](https://bedtools.readthedocs.io/en/latest/)
 - gffread [Manual](http://ccb.jhu.edu/software/stringtie/gff.shtml)
