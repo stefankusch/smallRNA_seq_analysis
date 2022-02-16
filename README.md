@@ -13,7 +13,7 @@ In this repository, we summarize the scripts and pipelines used to perform the a
 07. Target prediction of milRNAs
 08. Gene Ontology (GO) enrichment
 
-#### References *to be completed*
+#### References
 
 - ShortStack [Publication](https://doi.org/10.1534/g3.116.030452)
 - Trimmomatic [Publication](https://doi.org/10.1093/bioinformatics/btu170) | [Manual](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
