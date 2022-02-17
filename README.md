@@ -22,7 +22,7 @@ In this repository, we summarize the scripts and pipelines used to perform the a
 - Samtools [Publication](https://academic.oup.com/bioinformatics/article/25/16/2078/204688) | [Manual](http://www.htslib.org/doc/)
 - BEDtools [Publication](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btq033) | [Manual](https://bedtools.readthedocs.io/en/latest/)
 - gffread [Manual](http://ccb.jhu.edu/software/stringtie/gff.shtml)
-- SeqKit [Publication](https://doi.org/10.1371/journal.pone.0163962)| [Manual](https://bioinf.shenwei.me/seqkit/usage/)
+- SeqKit [Publication](https://doi.org/10.1371/journal.pone.0163962) | [Manual](https://bioinf.shenwei.me/seqkit/usage/)
 - BBmap [Manual](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/)
 - NCBI Blast+ [Website](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 - RepeatMasker [Website](http://www.repeatmasker.org)
