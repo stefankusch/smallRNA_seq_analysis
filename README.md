@@ -6,10 +6,10 @@ In this repository, we summarize the scripts and pipelines used to perform the a
 
 01. Raw sequencing data processing.
 02. Read length distribution analysis.
-03. RFAM BLAST analysis of reads. 
-04. ShortStack analyis for milRNA discovery in *H. vulgare* and *B. graminis* f.sp. *hordei*
+03. RFAM `BLAST` analysis of reads. 
+04. `ShortStack` analyis for milRNA discovery in *H. vulgare* and *B. graminis* f.sp. *hordei*
 05. NMDS, MDS, and PCA.
-06. Sample clustering by WGCNA
+06. Sample clustering by `WGCNA`
 07. Differential expression analysis of milRNAs in *H. vulgare* and *B. graminis* f.sp. *hordei*
 08. Target prediction of milRNAs
 09. Gene Ontology (GO) enrichment
